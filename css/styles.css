@@ -1,0 +1,13 @@
+/*+-To apply and save the changes, we open the VS Code Terminal and enter this Code:_  sass --watch sass:css
+        And then Save.*/
+footer {
+  background-color: green; }
+  footer h3 {
+    color: blue; }
+    footer h3 a {
+      color: red; }
+
+.title {
+  background-color: aqua; }
+
+/*# sourceMappingURL=styles.css.map */
